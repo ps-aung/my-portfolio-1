@@ -3,7 +3,7 @@ export const projects = [
     title: "iSGM Website",
     subtitle: "Wordpress",
     description:
-      "iSGM Website is developed by wordpress and used Elementor Pro plugins.WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. ",
+      "iSGM Website is developed by Wordpress that use Elementor Pro plugins and written in PHP and paired with a MySQL.",
     image: "./isgmwebsite.png",
     link: "https://isgm2.com",
   },
