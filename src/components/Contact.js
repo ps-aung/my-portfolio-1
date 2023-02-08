@@ -29,7 +29,7 @@ const Contact = () => {
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d401.3764149462507!2d96.19573376316667!3d16.848293931613334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2smm!4v1644059791610!5m2!1sen!2smm"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1621.02292078551!2d139.4106930722577!3d35.651242186725526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e300d2ad3193%3A0x243e09325c66f1b9!2z44CSMTkxLTAwNDIgVG9reW8sIEhpbm8sIEhvZG9rdWJvLCA2NTAtNjkg77yW77yZ!5e0!3m2!1sen!2sjp!4v1675860929101!5m2!1sen!2sjp"
             width="100%"
             height="100%"
             title="map"
@@ -46,8 +46,8 @@ const Contact = () => {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                No(957) Thanthumar Rd. <br />
-                Yangon, Myanmar
+                東京都日野市 <br />
+                程久保、高幡台団地69-403
               </p>
             </div>
             <div className="lg px-8 mt-4 lg:mt-0">
@@ -60,7 +60,7 @@ const Contact = () => {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">+95 420-043-626</p>
+              <p className="leading-relaxed">+81 090-7223-6265</p>
             </div>
           </div>
         </div>
@@ -73,7 +73,8 @@ const Contact = () => {
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-            I am eager to take on a new challenge and seek the perfect opportunity to contribute and grow.
+            I am eager to take on a new challenge and seek the perfect
+            opportunity to contribute and grow.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

@@ -31,19 +31,27 @@ export const projects = [
     image: "./ai.png",
     link: "#",
   },
+  {
+    title: "iSGM Telecom Rollout Management System (iTRMS)",
+    subtitle: "React & Sprngboot",
+    description:
+      "iTRMS project is an easy and efficient way to mange telecom tower operation.",
+    image: "./itrms.jpg",
+    link: "#",
+  },
 ];
 
 export const skills = [
   "SpringBoot",
   "Angular",
   "React",
+  "Node.js",
   "Wordpress",
   "Code Igniter",
   "Laravel",
   "Python",
   "C++",
-  "Android",
-  "Swift",
+  "Android"
 ];
 
 export const testimonials = [

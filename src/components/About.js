@@ -32,7 +32,7 @@ const About = () => {
           <img
             className="object-cover object-center rounded"
             alt="pyae sone aung"
-            src="./my_profile.jpg"
+            src="./my_profile2.jpg"
           />
         </div>
       </div>
