@@ -74,7 +74,7 @@ export const testimonials = [
 ];
 
 export const EMAIL_DATA = {
-  SERVICE_ID: `service_rhqnf8i`, // Service ID
-  USER_ID: `user_KjjMGBp7rDeCyBnOpcoOS`, //userID
-  TEMPLATE_ID: `template_contactme`, //templateID
+  SERVICE_ID: `service_ef3nzcp`, // Service ID
+  USER_ID: `5-SmJ1fq2ABlvv-5N`, //userID
+  TEMPLATE_ID: `template_j90q46t`, //templateID
 };
